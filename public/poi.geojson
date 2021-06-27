@@ -2,6 +2,8 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
+{ "type": "Feature", "id": 0, "properties": { "Nom": "Brit Hotel", "Lieu": "Rue du docteur Koch, 66100 Perpignan", "Metro": "", "Date": "30/0666666/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.88493, 42.65974 ] } }
+,
 { "type": "Feature", "id": 1, "properties": { "Nom": "BMW Welt", "Lieu": "Am Olympiapark 1, 80809 Munchen", "Metro": "Olympiazentrum", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.556351, 48.177247 ] } }
 ,
 { "type": "Feature", "id": 2, "properties": { "Nom": "Musee allemand", "Lieu": "Museumsinsel 1, 80538 Munchen", "Metro": "Deutches Museum", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.582851, 48.129621 ] } }
