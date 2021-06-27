@@ -14,7 +14,7 @@
 ,
 { "type": "Feature", "id": 6, "properties": { "Nom": "Station Service", "Lieu": "TV-3025, PK .5, 43860, L'Ametlla de Mar, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.798998, 40.887421 ] } }
 ,
-{ "type": "Feature", "id": 7, "properties": { "Nom": "Station Service", "Lieu": "N-340, 1121, 8 D, 43891, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.85674, 40.949607 ] } }
+{ "type": "Feature", "id": 7, "properties": { "Nom": "Station Service/Alas Benzinera", "Lieu": "N-340, 1121, 8 D, 43891, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.856816, 40.949404 ] } }
 ,
 { "type": "Feature", "id": 10, "properties": { "Nom": "Sagrada Familia", "Lieu": "Carrer de Mallorca, 401, 08013 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.174408, 41.403572 ] } }
 ,
