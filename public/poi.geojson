@@ -27,5 +27,7 @@
 { "type": "Feature", "id": 14, "properties": { "Nom": "La Boqueria", "Lieu": "La Rambla, 91, 08001 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.171554, 41.381735 ] } }
 ,
 { "type": "Feature", "id": 30, "properties": { "Nom": "La Terrasseta", "Lieu": "Carrer Major, 2, 43549 Poble Nou, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.685803, 40.645126 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Nom": "Bicis Delta natura", "Lieu": "Carrer Major, s/n, 43549 Poble Nou del Delta, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.68517, 40.644414 ] } }
 ]
 }
