@@ -6,6 +6,6 @@
 ,
 { "type": "Feature", "id": 2, "properties": { "Nom": "Villa Tres Calas", "Lieu": "Carrer de la Caleta, 173, 43860 Tres Calas, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.822596, 40.90714 ] } }
 ,
-{ "type": "Feature", "id": 10, "properties": { "Nom": "Sagrada Familia", "Lieu": "Barcelone", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.174408, 41.403572 ] } }
+{ "type": "Feature", "id": 10, "properties": { "Nom": "Sagrada Familia", "Lieu": "Carrer de Mallorca, 401, 08013 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.174408, 41.403572 ] } }
 ]
 }
