@@ -1,0 +1,73 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "BMW Welt", "Lieu": "Am Olympiapark 1, 80809 Munchen", "Metro": "Olympiazentrum", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.556351, 48.177247 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Nom": "Musee allemand", "Lieu": "Museumsinsel 1, 80538 Munchen", "Metro": "Deutches Museum", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.582851, 48.129621 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Nom": "Zoo d'Hellabrunn", "Lieu": "Tiersparkstrasse 30, 81543 Munchen", "Metro": "Tierpark", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.551968, 48.100371 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Nom": "Bavaria Filmstadt", "Lieu": "Bavariafilmpl. 7, 82031 Grunwald", "Metro": "Grunwald/Bavariafilmplatz", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.554002, 48.06534 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Nom": "Marienplatz", "Lieu": "Marienplatz, 80331 Munchen", "Metro": "Marienplatz", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.576178, 48.138356 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Nom": "Viktualienmarkt", "Lieu": "Viktualienmarkt 3, 80331 Munchen", "Metro": "Marienplatz", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.576414, 48.135349 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Nom": "Englischer Garten", "Lieu": "Munchen", "Metro": "Universitat", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.589031, 48.149195 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Nom": "Olypiaturm", "Lieu": "Olympiapark, Spiridon-Louis-Ring 7, 80809 Munchen", "Metro": "Olympiazentrum", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.553733, 48.174421 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Nom": "Deutches Museum Verkehrzentrum", "Lieu": "Am Bavariapark 5, 80339 Munchen", "Metro": "Swanthalerhohe", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.541894, 48.132614 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Nom": "BMW Museum", "Lieu": "Am Olympiapark 2, 80809 Munchen", "Metro": "Olympiapark", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.559066, 48.176911 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Nom": "Allianz-Arena", "Lieu": "Werner-Heisenberg-Allee 25, 80939 Munchen", "Metro": "Frottmaning", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.62464, 48.219011 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Nom": "Museum Flugwerft Schleissheim", "Lieu": "Effnerstrasse 18, 85764 Oberschleissheim", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.556973, 48.245961 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Nom": "NS-Dokumentationszentrum", "Lieu": "Max-Mannheimer-Platz 1, 80333 Munchen", "Metro": "Konigsplatz", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.567708, 48.145369 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Nom": "Residenz", "Lieu": "Residenzstrasse 1, 80333 Munchen", "Metro": "Marienplatz/Odeonplatz", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.578614, 48.14069 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Nom": "Karlstor", "Lieu": "Neuhauser Str.47, 80331 Munchen", "Metro": "Karlsplatz", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.566721, 48.138958 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Nom": "Isartor", "Lieu": "Tal 50, 80331 Munchen", "Metro": "Isartor", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.581982, 48.135138 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Nom": "Sendlinger Tor", "Lieu": "Sendlinger-Tor-Platz 12, 80331 Munchen", "Metro": "Sendlinger Tor", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.567595, 48.134078 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Nom": "Chateau de Nymphenburg", "Lieu": "Schloss Nymphenburg 1, 80638 Munchen", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.503386, 48.158356 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Nom": "AirBnB", "Lieu": "Helene-Mayer-Ring 12, Munchen", "Metro": "", "Date": "21/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.55316, 48.181866 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Nom": "Chateau de Neuschwanstein", "Lieu": "Neuschwansteinstrasse 20, 87645 Schwangau", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.749532, 47.55753 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Nom": "Chateau de Linderhof", "Lieu": "Linderhof 12, 82488 Ettal", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.960772, 47.57172 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "Nom": "Musee des Transports", "Lieu": "Lessingstraße 6, 90443 Nurnberg", "Metro": "Opernhaus", "Date": "21/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.074325, 49.445623 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "Nom": "Kaiserburg", "Lieu": "Burg 13, 90403 Nurnberg", "Metro": "", "Date": "20/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.075077, 49.458048 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "Nom": "Legoland", "Lieu": "Legoland-Allee 1, 89312 Gunzburg", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.299484, 48.424445 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "Nom": "Europapark", "Lieu": "Europa-Park-Strasse 2, 77977 Rust", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 7.721715, 48.26889 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "Nom": "Tripsdrill Erlebnispark", "Lieu": "Erlebnispark Tripsdrill Strasse 1, 74389 Cleebronn", "Metro": "", "Date": "20/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 9.052874, 49.035406 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "Nom": "Allgau Skyline Park", "Lieu": "86871, Skyline-Park-Str.1", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.590804, 48.042803 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "Nom": "Chateau d'Heidelberg", "Lieu": "Schlosshof 1, 69117 Heidelberg", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 8.715146, 49.410331 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "Nom": "Badeparadies", "Lieu": "Am Badeparadies, 79822 Titisee-Neustadt", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 8.159556, 47.906807 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "Nom": "Center Parcs - Les 3 forets", "Lieu": "1 Rue de Bertrambois, 57790 Hattigny", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 6.984639, 48.621673 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "Nom": "Bayern Park", "Lieu": "Fellbach 1, 94419 Reisbach", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 12.636101, 48.53083 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "Nom": "Aqua Mundo Allgau", "Lieu": "88299 Leutkirch im Allgau", "Metro": "", "Date": "22/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.063496, 47.783733 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "Nom": "Rothenbourg", "Lieu": "Rothenbourg ob der Tauber", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 10.178667, 49.377309 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "Nom": "Hilton", "Lieu": "", "Metro": "", "Date": "19/10/2019"}, "geometry": { "type": "Point", "coordinates": [ 11.042756, 49.322643 ] } }
+]
+}
