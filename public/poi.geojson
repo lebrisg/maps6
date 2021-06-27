@@ -13,5 +13,7 @@
 { "type": "Feature", "id": 11, "properties": { "Nom": "Tibidabo", "Lieu": "Placa del Tibidabo, 3, 4, 08035 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.119412, 41.421422 ] } }
 ,
 { "type": "Feature", "id": 12, "properties": { "Nom": "Funicular del Tibidabo", "Lieu": "Placa del Doctor Andreu, s/n, 08035 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.131106, 41.416466 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Nom": "Parc Guell", "Lieu": "Parc Guell, 08024 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.152387, 41.414073 ] } }
 ]
 }
