@@ -9,5 +9,7 @@
 { "type": "Feature", "id": 3, "properties": { "Nom": "PortAventura World", "Lieu": "Av. Pere Mola, Km 2, 43840, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 1.153146, 41.086415 ] } }
 ,
 { "type": "Feature", "id": 10, "properties": { "Nom": "Sagrada Familia", "Lieu": "Carrer de Mallorca, 401, 08013 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.174408, 41.403572 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Nom": "Tibidabo", "Lieu": "Placa del Tibidabo, 3, 4, 08035 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.119412, 41.421422 ] } }
 ]
 }
