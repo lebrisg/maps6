@@ -8,7 +8,7 @@
 ,
 { "type": "Feature", "id": 3, "properties": { "Nom": "PortAventura World", "Lieu": "Av. Pere Mola, Km 2, 43840, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 1.153146, 41.086415 ] } }
 ,
-{ "type": "Feature", "id": 4, "properties": { "Nom": "Supermercados Suma", "Lieu": "Carrer Brollador, 233, 43860, Les Tres Cales, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.808825, 40.908117 ] } }
+{ "type": "Feature", "id": 4, "properties": { "Nom": "Pharmacie", "Lieu": "Carrer de Llevant, 43860, Les Tres Cales, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.809174, 40.908279 ] } }
 ,
 { "type": "Feature", "id": 5, "properties": { "Nom": "Mercadona", "Lieu": "Carretera TV-3025 Sector 22-B1, 43860, L'Ametlla de Mar, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.795951, 40.890815 ] } }
 ,
