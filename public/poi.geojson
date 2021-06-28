@@ -28,6 +28,8 @@
 ,
 { "type": "Feature", "id": 15, "properties": { "Nom": "Parking Las Remblas", "Lieu": "La Rambla, 20, 08002 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.176157, 41.377972 ] } }
 ,
+{ "type": "Feature", "id": 16, "properties": { "Nom": "Parking Esperanca I Guell", "Lieu": "Carrer de Sant Gugat del valles, 13, 08024 Barcelona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 2.153256, 41.411104 ] } }
+,
 { "type": "Feature", "id": 30, "properties": { "Nom": "La Terrasseta", "Lieu": "Carrer Major, 2, 43549 Poble Nou, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.685803, 40.645126 ] } }
 ,
 { "type": "Feature", "id": 31, "properties": { "Nom": "Bicis Delta natura", "Lieu": "Carrer Major, s/n, 43549 Poble Nou del Delta, Tarragona", "Metro": "", "Date": "01/07/2021"}, "geometry": { "type": "Point", "coordinates": [ 0.68517, 40.644414 ] } }
