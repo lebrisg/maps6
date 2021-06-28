@@ -71,14 +71,9 @@
             L.geoJson(data, { "color": "#0078FF" }).addTo(map);
           }); 
 
- 	  // load tube data line 8
-          $.getJSON("ubahn8.geojson",function(data){
+ 	  // load data lane 2
+          $.getJSON("lane2.geojson",function(data){
             L.geoJson(data, { "color": "#FF00FF" }).addTo(map);
-          }); 
-
-	  // load Vignette Munich
-          $.getJSON("munich.geojson",function(data){
-            L.geoJson(data, { "color": "#00FF78" }).addTo(map);
           }); 
 
 	  // load GeoJSON from an external file
